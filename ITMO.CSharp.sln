@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSharp", "ITMO.CSharp\ITMO.CSharp.csproj", "{940022B8-54ED-4212-8894-6DBB5CBB653D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab2.BankAccount", "ITMO.CSharp.Lab2.BankAccount\ITMO.CSharp.Lab2.BankAccount.csproj", "{940022B8-54ED-4212-8894-6DBB5CBB653D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{22321A0B-F099-4E96-98F5-B6ACE64617DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSharp. Lab1.Greeter", "ITMO.CSharp. Lab1.Greeter\ITMO.CSharp. Lab1.Greeter.csproj", "{1A5C7C56-64AD-42A7-8705-FF7C2D439493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab1.Greeter", "ITMO.CSharp.Lab1.Greeter\ITMO.CSharp.Lab1.Greeter.csproj", "{1A5C7C56-64AD-42A7-8705-FF7C2D439493}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSharp.Lab1.DivideIt", "ITMO.CSharp.Lab1.DivideIt\ITMO.CSharp.Lab1.DivideIt.csproj", "{B8ADF674-D0CD-4285-BA98-20AB2CE1C9DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab1.DivideIt", "ITMO.CSharp.Lab1.DivideIt\ITMO.CSharp.Lab1.DivideIt.csproj", "{B8ADF674-D0CD-4285-BA98-20AB2CE1C9DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab2", "Lab2", "{268BDD99-B48D-455F-9056-B37D25238E4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +36,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{940022B8-54ED-4212-8894-6DBB5CBB653D} = {268BDD99-B48D-455F-9056-B37D25238E4A}
 		{1A5C7C56-64AD-42A7-8705-FF7C2D439493} = {22321A0B-F099-4E96-98F5-B6ACE64617DC}
 		{B8ADF674-D0CD-4285-BA98-20AB2CE1C9DC} = {22321A0B-F099-4E96-98F5-B6ACE64617DC}
 	EndGlobalSection
