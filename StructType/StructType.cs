@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ITMO.CSharp
+namespace StructType
 {
-    class EMPTY
+    class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello World!");
         }
     }
 }
