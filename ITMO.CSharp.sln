@@ -31,7 +31,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab5", "Lab5", "{23F758CE-2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab5.FileDetails", "ITMO.CSharp.Lab5.FileDetails\ITMO.CSharp.Lab5.FileDetails.csproj", "{8FB4B2A6-9F7C-4599-BDA7-2652851F49D1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab5.MatrixMultiply", "ITMO.CSharp.Lab5.MatrixMultiply\ITMO.CSharp.Lab5.MatrixMultiply.csproj", "{DD4B3C13-DE21-4756-AA31-18F560CD64F9}"
+EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab6", "Lab6", "{8F600FCA-F912-4EEF-91F9-E16F7DC0FDD9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab6.Ex1.CreateAccount", "ITMO.CSharp.Lab6.Ex1.CreateAccount\ITMO.CSharp.Lab6.Ex1.CreateAccount.csproj", "{4629BD55-2A77-4901-89A1-7F1A5F7E16F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSharp.Lab6.Ex2.UniqueNumbers", "ITMO.CSharp.Lab6.Ex2.UniqueNumbers\ITMO.CSharp.Lab6.Ex2.UniqueNumbers.csproj", "{FA5F1C1A-3C17-412B-BF70-893FDA748C60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSharp.Lab6.Ex3.MoreMethods", "ITMO.CSharp.Lab6.Ex3.MoreMethods\ITMO.CSharp.Lab6.Ex3.MoreMethods.csproj", "{03B51AE4-009A-4654-90BA-585105A941F4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab6FromLecture", "Lab6FromLecture", "{3F321918-4D54-469F-96D1-B33779B4AC43}"
 EndProject
@@ -43,14 +51,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab7.1FromLecture", "Lab7.1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab7.1.FromLecture", "ITMO.CSharp.Lab7.1.FromLecture\ITMO.CSharp.Lab7.1.FromLecture.csproj", "{56CE736A-0332-4064-B888-E637A288C0FC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab5.MatrixMultiply", "ITMO.CSharp.Lab5.MatrixMultiply\ITMO.CSharp.Lab5.MatrixMultiply.csproj", "{DD4B3C13-DE21-4756-AA31-18F560CD64F9}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ITMO.CSharp.Lab6.Ex1.CreateAccount", "ITMO.CSharp.Lab6.CreateAccount\ITMO.CSharp.Lab6.Ex1.CreateAccount.csproj", "{4629BD55-2A77-4901-89A1-7F1A5F7E16F6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSharp.Lab6.Ex2.UniqueNumbers", "ITMO.CSharp.Lab6.UniqueNumbers\ITMO.CSharp.Lab6.Ex2.UniqueNumbers.csproj", "{FA5F1C1A-3C17-412B-BF70-893FDA748C60}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CSharp.Lab6.Ex3.MoreMethods", "ITMO.CSharp.Lab6.MoreMethods\ITMO.CSharp.Lab6.Ex3.MoreMethods.csproj", "{03B51AE4-009A-4654-90BA-585105A941F4}"
-EndProject
+
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
